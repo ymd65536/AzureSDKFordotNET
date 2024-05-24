@@ -1,4 +1,4 @@
-# Azure SDK for .NET
+# SemanticKenelをコンソールで動かす
 
 ## packages
 
